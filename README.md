@@ -1,7 +1,3 @@
-
-
-
-
-
-# practica1_fdp
-Practica 1  de Fundamentos de Programacion
+Erika Fuentes Rosas
+1234567890
+erirosasfuentes@gmail.com
